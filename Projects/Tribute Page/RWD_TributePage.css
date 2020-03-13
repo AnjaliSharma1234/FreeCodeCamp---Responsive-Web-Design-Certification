@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+#image {
+  dislay: block;
+  margin: auto;
+  width: 100%;
+}
+
